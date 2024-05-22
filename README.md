@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @danielly3rollo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Boas vindas ao meu perfil 🌻
 
-<!---
-danielly3rollo/danielly3rollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Danielly Santos
+
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem de javascript
+- Ultilizo esse espaço para minha organizaçao e compartilhameno dos meu projeto desenvolvido 
+
+### Voce pode entrar em cotato comigo 📫
+
+00001102431941sp@al.educacao.sp.gov.br
+
+@danielly0800
+
+![](https://media1.tenor.com/m/q_uvZiwiX4QAAAAC/camila-loures-salon-line.gif)
